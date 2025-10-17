@@ -1,0 +1,1 @@
+I will use the example of TOI-396 b to demonstrate the process of generating forward models (transmission and emission), creating simulated data (using `gentso`) out of it, and performing retrievals on the simulated data.
